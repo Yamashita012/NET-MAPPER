@@ -246,7 +246,7 @@ Folder: /
 ### Live URL Format
 
 ```text
-https://[your-github-username].github.io/[repository-name]/
+https://www.yamashita.co.za/network-map.html
 ```
 
 ---
